@@ -43,3 +43,4 @@ https://admin-dashboard-43y7.vercel.app/
 ## 💻 GitHub Repository
 
 Add your GitHub repository link here.
+https://github.com/maninder-26/Admin-Dashboard
